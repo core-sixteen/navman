@@ -63,4 +63,4 @@ Open an [feedback or issue](https://github.com/core-sixteen/navman/issues) and t
 Thank you very much, I hope you enjoy the app as much I do!
 ---
 
-© 2026 Daniel Guevara. All rights reserved.
+© 2026 Daniel Guevara. All rights reserved. Montreal, QC, Canada.
