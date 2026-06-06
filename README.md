@@ -1,5 +1,5 @@
 # NavMan
-Keyboard navigation for macOS — Move your text cursor anywhere without touching the arrow keys.
+Keyboard navigation for macOS — Move your text cursor[carret] anywhere inside your computer without touching the arrow keys.
 Hosted inside [Boostype](https://boostype.com)
 
 Made by [Daniel Guevara](https://github.com/core-sixteen)
@@ -53,12 +53,14 @@ Tap `Space` quickly → normal space character.
 
 Found a bug, have a suggestion, or just want to share what you think? I'd love to hear from you.
 
-Open an [issue](https://github.com/core-sixteen/navman/issues) and tell me:
+Open an [feedback or issue](https://github.com/core-sixteen/navman/issues) and tell me:
 - What you think of NavMan
-- What's not working for you
-- What features you'd like to see added
-- Your macOS version
+- What's not working for you... if is not working
+- What features you'd like to see added! to make this better!
+- Your macOS version, if for some reason is not working...
 
+---
+Thank you very much, I hope you enjoy the app as much I do!
 ---
 
 © 2026 Daniel Guevara. All rights reserved.
