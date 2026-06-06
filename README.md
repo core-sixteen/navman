@@ -3,8 +3,6 @@
 Keyboard navigation app for MacOS Computers — Move your text cursor[carret] anywhere inside your computer without touching the arrow keys.
 Hosted inside [Boostype](https://boostype.com)
 
-Made by [Daniel Guevara](https://github.com/core-sixteen)
-
 ***Notarized & Signed by Apple Inc.***
 
 ---
@@ -66,4 +64,4 @@ Open an [feedback or issue](https://github.com/core-sixteen/navman/issues) and t
 Thank you very much, I hope you enjoy the app as much I do!
 ---
 
-© 2026 Daniel Guevara. All rights reserved. Montreal, QC, Canada.
+© 2026 Made by [Daniel Guevara](https://github.com/core-sixteen). All rights reserved. Montreal, QC, Canada.
