@@ -7,6 +7,8 @@ Hosted inside [Boostype](https://boostype.com)
 
 ---
 
+![Logo](navmanLogo.png)
+
 ## Install
 
 Copy and paste the following code inside your terminal:
